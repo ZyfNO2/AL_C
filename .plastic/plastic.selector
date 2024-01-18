@@ -1,0 +1,4 @@
+repository "Chat-C@wechat_os_qy0zry6ybhrpp95c0cuwrn5va@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
